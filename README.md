@@ -1,5 +1,12 @@
 # Supervised Hashing with Latent Factor Model
 
+# Paper
+https://cs.nju.edu.cn/_upload/tpl/00/ce/206/template206/paper/SIGIR14_LFH.pdf
+
+# Reference
+Zhang P , Zhang W , Li W J , et al. Supervised hashing with latent factor models[M]. 2014.
+
+
 ## REQUIREMENTS
 `pip install -r requirements.txt`
 
